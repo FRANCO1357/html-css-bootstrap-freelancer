@@ -1,0 +1,18 @@
+/* UTILS */
+
+.bg-green{
+    background-color: #1ABC9B;
+}
+
+header{
+    background-color: #2C3F4F;
+    height: 100px;
+}
+
+section{
+    margin-bottom: 30px;
+}
+
+.row > [class^='col']{
+    height: 100px;
+}
