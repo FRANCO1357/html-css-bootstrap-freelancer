@@ -4,6 +4,14 @@
     background-color: #1ABC9B;
 }
 
+.bg-footer{
+    background-color: #3B546E;
+}
+
+.bg-header{
+    background-color: #2C3F4F;
+}
+
 header{
     background-color: #2C3F4F;
     height: 100px;
